@@ -1,25 +1,24 @@
 programa
 {
 	
-	funcao inicio(){
-
-	real base, altura, retangulo 
-	escreva("digite o valor da base; ")
+	funcao inicio()
+	{
+	real base, altura, area
+	escreva("Digite a base do retangulo; ")
 	leia(base)
-     escreva ("digite o valor da altura; ")
-     leia(altura)
-     retangulo = base * altura
-     escreva("o calculo e;", retangulo)
-     
-	}
+	escreva("Digite a altura do retangulo: ")
+	leia(altura)
+	area = base * altura
+	escreva("A area do retangulo e; ", area)
 	
+	}
 }
 /* $$$ Portugol Studio $$$ 
  * 
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 157; 
+ * @POSICAO-CURSOR = 74; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;

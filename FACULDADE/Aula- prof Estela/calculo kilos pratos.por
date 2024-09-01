@@ -3,26 +3,14 @@ programa
 	
 	funcao inicio()
 	{
-		real salario_bruto, salario_liquido, horas, horas_extras, valor_horas, valor_extra
-		
-		escreva("digite horas trabalhadas; ")
-		leia(horas)
-		escreva("digite horas extras trabalhadas; ")
-		leia(horas_extras)
-		valor_horas = horas * 30 + (horas_extras * 15)
-		escreva("o salario bruto e;", valor_horas)
-		
-		
-
-
-
-
-
-
-
-
-
-		
+	cadeia kilos
+     real valor_prato, quantos_kilos
+     escreva ("digite o kilo alimento; ")
+     leia(quantos_kilos)
+     valor_prato = 12 * quantos_kilos
+     escreva("o  calculo e; ", valor_prato)
+     
+      
 	}
 }
 /* $$$ Portugol Studio $$$ 
@@ -30,7 +18,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 343; 
+ * @POSICAO-CURSOR = 243; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
