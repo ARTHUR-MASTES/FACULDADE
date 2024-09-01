@@ -1,0 +1,15 @@
+
+EXERCICIO BANCO DE DADOS 
+
+
+
+ALUNO: Nome, CPF, RG, Endereço, email e numero de telefone, Estado/Cidade, RA, Campos
+
+
+PROFESSORES: Nome, CPF, RG, Endereço, email e numero de telefone, Estado/Cidade, Formaçao/titulaçao, Matricula 
+
+
+CURSO: Nome, Carga horaria, quantidade de periodos, Grade Curricula, Turma, Mensalidade 
+
+
+UNIDADE CURRICULAR: Nome, Periodo, Carga horaria, Turma, Nota, Curso, Frequencia 

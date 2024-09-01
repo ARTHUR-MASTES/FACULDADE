@@ -1,0 +1,17 @@
+
+
+TABELA CLINICA VETERINARIA 
+
+
+
+
+CLIENTE: Nome, CPF, RG, Email / Numero de telefone, Endereço, Horario Marcado, Codigo do cliente, Buscar o animal ou entregar o animal
+
+
+ANIMAL: Nome, Raça ou especie do animal, peso, Idade, Sexo, porte do animal, carteira de vacinaçao, tipo de Comportamento do animal, Codigo do dono , Horario marcado 
+
+
+VETERINRIO: Nome, CPF, Rg, Endereço, Formaçao/Titulaçao, Salario, Email / Numero de telefone, Codigo do proficional 
+
+
+CONSULTA: Nome, Peso, Carteira de vacinaçao, Diagnostico, Codigo, Data, Hora, Valor da consulta  

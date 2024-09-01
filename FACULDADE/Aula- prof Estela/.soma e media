@@ -1,0 +1,19 @@
+programa {
+  funcao inicio()  
+  {
+    real num1, num2, soma, media 
+
+  escreva ( "digite o numero 1:")
+  leia (num1)
+  escreva ("digite o numero 2:")
+  leia(num2)
+soma = num1 + num2
+media = (soma)/2
+escreva (" a soma e: ", soma, "\n")
+escreva (" a media e: ", media)
+ 
+ 
+ 
+ 
+  }
+}
